@@ -30,7 +30,7 @@ web development, there is also #lispweb, where I hang out.
 
 ### The parenthesis
 
-<img src="/parens.png"></img>
+<img src="/parens.png">
 
 The most notorious of all bumps is Lisp's "idiosyncratic" syntax. Dealing with parens is actually very easy, both reading and writing them. But why would you want to? Can't you just have a "normal" syntax? Here is my list of reasons why I prefer lisp syntax to "normal" syntax(In order of importance):
 
@@ -90,4 +90,4 @@ Free software is about scratching your own itch, and helping others. If you go o
 
 So in order to get the most out of the lisp experience, I have to learn a new way of reading and writing source, using a weird 35 year old editor, use a non-popular language that hasn't changed substantially in 20 years and only has a bare minimum of libraries and documentation to qualify as alive, and I'll likely have to write a lot of common things myself, or at the very least decipher somebody else's code and document it. Not to mention I'll have to explain all of this misinformation people seem to like to spread every time I tell someone I'm using this language. 
 
-When I put it like that, it proves that I suck at marketing. Well, in this post I just wrote about the bad stuff I've encountered and seen others encounter, and wrote about it, so the conclusion I wrote above is one based on a single angle of a side, of a facade, of just one dimension of the richness of lisp culture. So don't think of it as being that bad. This post is about dealing with the little bad there is while *learning*. The good, well, there is way too much praise for Lisp out in the internet for me to care about writing more, but I can say safely that I enjoy working with this language and I love what it has thought me, and I especially enjoy helping others learn it. If this post hasn't scared you away from Lisp, welcome aboard! Hacks and Glory await you!  
+When I put it like that, it proves that I suck at marketing. Well, in this post I just wrote about the bad stuff I've encountered and seen others encounter, and wrote about it, so the conclusion I wrote above is one based on a single angle of a side, of a facade, of just one dimension of the richness of lisp culture. So don't think of it as being that bad. This post is about dealing with the little bad there is while *learning*. The good, well, there is way too much praise for Lisp out in the internet for me to care about writing more, but I can say safely that I enjoy working with this language and I love what it has thought me, and I especially enjoy helping others learn it. If this post hasn't scared you away from Lisp, welcome aboard! Hacks and Glory await you!   
