@@ -13,4 +13,6 @@ I posted a link to the books leanpub page a couple of days ago to gather feedbac
 
 I'm bouncing around ideas in my head  about the pricing as well. For example one idea I have is to charge 20$ minimum(leanpub let's you pay as much as you want beyond a minimum price set by the author) during the early stage of the book. By the time the book becomes half useful I'll increase the price to 25$ or 30$. Like I did with my previous book I'll publish the HTML version free on the web, and of course it'll all be on Github under a creative commons license, so you're only paying if you want the PDF/EPUB/MOBI format, or if you want to help me out financially. I do this because I want my writing to be accessible to a wide audience, but I'm not going to subject myself to a year of impostor syndrome and self-hatred because of missed deadlines just for the glory of it all, might as well make a little extra cash for my time :)
 
-Happy hacking fellow lispers! 
+Happy hacking fellow lispers!
+
+P.S. [](http://fullstacklisp.com) is Live, if a bit bare bones at the moment! 
