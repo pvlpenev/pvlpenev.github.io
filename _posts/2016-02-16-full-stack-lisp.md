@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Full Stack Lisp status report"
+---
+
+Although I've been thinking about writing something like FSL for a long time, and started doing research in September of last year, it's only been in the last couple of weeks that I've had enough time to get the project rolling. And even then, only in the last 10 or so days I've actually had the opportunity to sit down and write for an extended period of time. The result is an early draft of the first part of the book, containing among other things: A roswell tutorial, an introduction to Slime and a short summary of some commonly used libraries the reader might want to look into(alexandria and the like).
+
+I've published it as a sample chapter on [leanpub](https://leanpub.com/fullstacklisp), and put the markdown source on [github](https://github.com/pvlpenev/fullstacklisp). It's still too early so I haven't published the book and you can't purchase it. I'm still not entirely sure if I'll be able to finish it, but I hope to know soon. I wanted to start writing and get my bearings about what I can realistically finish, I don't want to make promises I can't keep, especially if people might be paying money. 
+
+The next part of the book will be about [Clack](http://clacklisp.org/), once I have a sufficient portion of it finished and have a good idea of what else will have to be written and how much work it will take, I'll publish the early version of the book and people will be able to purchase it. I expect this to happen either by the end of this month, or the beginning of the next.
+
+Some technical details about the process: When I'm ready to work I sit down with an org-mode buffer that contains an outline of the topics I want to cover in the book. I have an org file for each topic, and I do all the research on it upfront before I start writing. I read documentation, collect notes, run small experiments and document the behavior. I do this for several topics before I start editing them, since until I have a larger context it's a bit difficult to figure out how to structure and arrange them into sections. Sometimes sub-topics get moved around and stuff like that. Once I'm satisfied I have enough information about the topics I start editing my notes into an early first draft. And that's what we have now for Part I. Some parts haven't been written yet, and probably a good chunk of it needs serious editing(I literally pasted an example .emacs file instead of writing an actual section, this will need to be fixed), but it's a good starting point and I'd rather get more written material ready before I start working on a more or less final edit, or more accurately, a v1.0. Because of how many volatile some of the tools I'm writing about are I expect the book to need continuous updating in it's lifetime. 
+
+I have a lot more ideas than I have resources to implement, and the research process I kind of a mess, which is why I'm keeping my notes private for now. Eventually as the project nears maturity I'll make the process more open and publish some notes and document the way I'm doing this more thoroughly. Also maybe an actual time-line with milestones, but it's still early for that I think.
+
+Another point to make is that I'm currently skipping non-Linux platforms. Eventually I'll at least get windows version on some of the installation tutorials, but I'm treating it as low-priority for now. Also I don't have access to a mac, so I'm obviously skipping OS X as well.
+
+And that's it for now.
